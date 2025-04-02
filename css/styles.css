@@ -12,8 +12,9 @@ header h1 {
 
 section {
     margin-bottom: 1rem;
-    background-color: white;
     padding: .3rem;
+    background-color: lightyellow;
+#    background-color: white;
 #    border-radius: 8px;
 #    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -21,6 +22,7 @@ section {
 section h2 {
     font-size: 1.2rem;
     margin-bottom: .1rem;
+    background-color: lightsteelblue;
 #    text-align: center;
 }
 
